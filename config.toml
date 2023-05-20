@@ -1,0 +1,4 @@
+baseURL = 'http://chaoran.org/'
+languageCode = 'en-us'
+title = 'Chaoran Yuan Site'
+theme = 'ananke'
